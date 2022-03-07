@@ -1,0 +1,22 @@
+http://0.0.0.0:5000/loan_eligibility/predict
+{
+  "Loan ID" : "6cf51492-02a2-423e-b93d-676f05b9ad53",
+  "Customer ID" : "7c202b37-2add-44e8-9aea-d5b119aea935" ,
+  "Loan Status" :  "Loan Rejected",
+  "Current Loan Amount" :  12232,
+  "Term" :  0,
+  "Credit Score" :  7280,
+  "Years in current job" :  0,
+  "Home Ownership" :  0,
+  "Annual Income":  46643,
+  "Purpose" :  0,
+  "Monthly Debt" :  777.39,
+  "Years of Credit History" :  18.0,
+  "Months since last delinquent" :  10.0,
+  "Number of Open Accounts" :  12,
+  "Number of Credit Problems": 0,
+ "Current Credit Balance" :  6762,
+  "Maximum Open Credit" :  7946,
+  "Bankruptcies" :  0,
+  "Tax Liens": 0
+}
